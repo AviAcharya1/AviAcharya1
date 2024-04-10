@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on innovative projects that challenge me and help me grow as a developer.
 
-📫 How to reach me: aviacharysr@gmail.coom
+📫 How to reach me: aviacharysr@gmail.com
 
 😄 Pronouns: (Avi)
 
