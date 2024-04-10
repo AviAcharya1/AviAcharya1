@@ -1,8 +1,8 @@
-👋  I’m @AviAcharya
+👋  I’m @AviAcharya.
 
 👀 I’m interested in developing new things and creating unique things with some creativity. I'm a good learner, enthusiastic to learn new things and technology where opportunities are rare.
 
-🌱 I’ve completed my MCA at SBRR Mahajana First Grade College, Mysore and completed a MERN fullstack course at JSpiders Basavanagudi.
+🌱 I’ve completed my MCA and MERN fullstack course.
 
 💞️ I’m looking to collaborate on innovative projects that challenge me and help me grow as a developer.
 
