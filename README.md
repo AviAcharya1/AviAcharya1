@@ -1,4 +1,4 @@
-👋 Hi, I’m @AviAcharya1
+👋  I’m @AviAcharya
 
 👀 I’m interested in developing new things and creating unique things with some creativity. I'm a good learner, enthusiastic to learn new things and technology where opportunities are rare.
 
