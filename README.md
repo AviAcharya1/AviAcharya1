@@ -60,7 +60,6 @@ I am a full-stack web developer with a strong passion for creating innovative an
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AviAcharya1&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.github.com/?user=AviAcharya1" />
 </p>
 
 ## Hobbies and Interests
