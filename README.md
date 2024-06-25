@@ -58,10 +58,14 @@ I am a full-stack web developer with a strong passion for creating innovative an
 👩‍💻 Learning and improving each day
 
 <br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AviAcharya1&show_icons=true&count_private=true" />
-</p>
-
+<!-- prettier-ignore-start -->
+```html
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AviAcharya1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=AviAcharya1&theme=default" />
+</picture>
+```
+<!-- prettier-ignore-end -->
 ## Hobbies and Interests
 
 When I'm not coding, I enjoy indulging in photography, sketching, cycling, badminton, cooking, and traveling. These activities help me maintain a balanced lifestyle and fuel my creativity.
