@@ -1,71 +1,43 @@
-# Avi Acharya
+## AviAcharya
+<h1 align="center">hey there 👋</h1>
 
-## About Me
+<h3 align="left">👩‍💻 About Me</h3>
 
-I am a full-stack web developer with a strong passion for creating innovative and user-friendly applications. With a Master's degree in Computer Applications (MCA) and comprehensive training in the MERN stack, I possess a solid foundation in web development technologies and an eagerness to continuously learn and grow.
+<p align="left">- 👋 Hi, I’m AviAcharya<br>- 👀 I’m interested in Reactjs, NextJs, NodeJs, TypeScript, Python, Data Science, and Machine Learning<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate with other developers to extend my knowledge ...<br>- 📫 How to reach me ...</p>
 
-## Skills
+<h3 align="left">🛠 Language and tools</h3>
 
-- Front-end: HTML, CSS, JavaScript, React.js
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Version Control: Git, GitHub
-- Other: Problem-solving, Critical thinking, Teamwork, Communication
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+</div>
 
-## Projects
+<h3 align="left">🔥 My Stats :</h3>
 
-### Project 1: [MotoSpares(E-Commerce Website)InHouse project • June 2021 - October 2021]
-- Project Title: E-commerce Application for Super Car and Superbike Spare Parts. 
-- Objective: Developed an e-commerce application dedicated to selling spare parts for super cars and superbikes as part of a team project during our degree program. 
-- Front-End Development: Utilized HTML, CSS, JavaScript, and Bootstrap to create a user-friendly interface with a modern and appealing design. Implemented various features such as product listings, a shopping cart, and a checkout process. 
-- Back-End Development: Managed the back-end of the application with PHP. Implemented various features such as user authentication, product management, and order processing. Included a database to store product information and user data. 
-- Team Experience: Worked as a team of two, dividing tasks based on strengths and learning from each other in the process. This collaborative approach resulted in a more robust application. 
-- Engineered a robust e-commerce platform for MotoSpares, integrating real-time inventory management and secure payment gateways, enhancing user experience and increasing sales revenue by 35% within six months post-launch.
-- LANGUAGES USED: HTML,CSS,JAVASCIPT,PHP
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AviAcharya1&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
 
-### Project 2: [Classification of oil painting and water painting using ML and DL (InHouse project • July 2023 - October 2023)]
-- Project Title: Classification of Oil Paintings and Water Paintings Using Machine Learning and Deep Learning. 
-- Objective: Developed a model to differentiate between oil paintings and water paintings, demonstrating the application of AI in the field of art. 
-- Data Collection and Preprocessing: Collected and preprocessed a substantial dataset of images to ensure uniform size and normalized color intensities. 
-- Feature Extraction: Utilized a pre-trained Convolutional Neural Network (CNN) to extract indicative features from the images. 
-- Model Training and Evaluation: Trained and evaluated a machine learning model using various algorithms including Support Vector Machines (SVM) and Random Forests. Performance was evaluated using cross-validation. 
-- Deep Learning Approach: In parallel, trained a CNN from scratch on the raw images for automatic feature learning and classification. • Results: Both the machine learning and deep learning models achieved high accuracy rates, demonstrating the feasibility of using AI to classify art. 
-- Presentation: Successfully presented the project in an examination, receiving positive feedback for its innovative use of technology in the field of art Engineered and presented a machine learning and deep learning system for classifying oil and water paintings, which was highly praised during an academic examination for its pioneering application of convolutional neural networks, achieving an accuracy rate of 85%
-- LANGUAGE USED : Python  
-- IDE : Jupyter Notebook,Google Collab
-
-## Education
-
-### Master of Computer Applications (MCA)
-[SBRR Mahajana First Grade college(Autonomous)-Mysore], [2023]
-
-### Bachelor of Computer Application (BCA)
-[Government Science College(Autonomous)-Hassan], [2021]
-
-## Contact
-
-- Email: aviacharysr@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/avinash-s-181672200/]
-
-  <h1 align=center>Hellooo, 👋 I'm Avi </h1>
-  
-👩‍🎓 Graduated with Master's of computer science (2023)
-
-💻 Full stack developer curring working tech stacks - React, NextJs, NodeJs, MongoDB, Flutter
-
-☕ Big time chai addict
-
-👩‍💻 Learning and improving each day
-
-<br>
-<!-- prettier-ignore-start -->
-```html
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AviAcharya1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=AviAcharya1&theme=default" />
-</picture>
-```
-<!-- prettier-ignore-end -->
-## Hobbies and Interests
-
-When I'm not coding, I enjoy indulging in photography, sketching, cycling, badminton, cooking, and traveling. These activities help me maintain a balanced lifestyle and fuel my creativity.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AviAcharya1/count.svg?" />
+</div>
