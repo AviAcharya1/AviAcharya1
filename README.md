@@ -3,7 +3,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">- 👋 Hi, I’m AviAcharya<br>- 👀 I’m interested in Reactjs, NextJs, NodeJs, TypeScript, Python, Data Science, and Machine Learning<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate with other developers to extend my knowledge ...<br>- 📫 How to reach me ...</p>
+<p align="left">- 👋 Hi, I’m AviAcharya<br>- 👀 I’m interested in Reactjs, NextJs, NodeJs, TypeScript, Python, Data Science, and Machine Learning<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate with other developers to extend my knowledge ...<br></p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
