@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 I'm currently learning AWS,Next.js,TypeScript...
+- 🌱 I'm currently learning Svelte & SvelteKit
 - 👀 I'm interested in React.js, Node.js, Python, Data Science, and Machine Learning.
 - 💞️ I'm looking to collaborate with other developers to extend my knowledge
 - 📫 How to reach me: [aviacharyasr@gmail.com]
